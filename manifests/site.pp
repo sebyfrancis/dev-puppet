@@ -1,3 +1,3 @@
-node manu.platform28.com {
+node 'manu.platform28.com' {
   include motd ntp
 }

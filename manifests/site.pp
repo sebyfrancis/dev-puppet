@@ -1,3 +1,3 @@
-node 'manu.platform28.com' {
+node default {
   include motd
 }

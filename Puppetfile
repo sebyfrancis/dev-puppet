@@ -5,6 +5,6 @@ mod "puppetlabs/motd"
 
 # Modules from Github
 
-mod "profiles",
-  :git => "git://github.com/sebyfrancis/dev-profiles.git"
+mod "motd",
+  :git => "git://github.com/sebyfrancis/dev-motd.git",
   :ref => 'test'

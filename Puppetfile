@@ -8,3 +8,7 @@ mod "puppetlabs/motd"
 mod "motd",
   :git => "git://github.com/sebyfrancis/dev-motd.git",
   :ref => 'master'
+
+mod "test",
+  :git => "git://github.com/sebyfrancis/dev-test.git",
+  :ref => 'master'

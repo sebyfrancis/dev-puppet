@@ -1,2 +1,2 @@
 ---
-message: 'This is a message from test-common.yaml'
+message: 'This is a message from ENV=test YAML=test.yaml'

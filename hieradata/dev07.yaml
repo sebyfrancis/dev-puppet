@@ -1,2 +1,2 @@
 ---
-$test_message: 'This is a test message for the environment dev07'
+message: 'This is a message from ENV=dev07 YAML=dev07.yaml'
